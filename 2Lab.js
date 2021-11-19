@@ -31,7 +31,9 @@ var family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 */
 
 //Code Here
-
+if (i = 0; i < family.length; i++) {
+    console.log
+}
 
 
 ////////// PROBLEM 4 //////////
